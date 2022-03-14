@@ -1,2 +1,2 @@
-# assignment-1-template
-Template for assignment 1
+# assignment-1
+Starter code for assignment 1
